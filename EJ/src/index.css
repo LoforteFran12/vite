@@ -1,0 +1,23 @@
+.crazy{
+  text-align: center;
+  text-shadow: #FC0 1px 0 10px;
+}
+
+.diamondp{
+
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.diamond{
+  width: 400px;
+}
+
+.peace{
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: #FC0 1px 0 10px;
+}
